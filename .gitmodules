@@ -1,0 +1,10 @@
+[submodule "include/batchreduce"]
+	path = include/batchreduce
+	url = https://github.com/sleeepyjack/batchreduce.git
+	branch = popcount
+[submodule "include/snpreader"]
+	path = include/snpreader
+	url = https://github.com/sleeepyjack/snpreader.git
+[submodule "include/cxxopts"]
+	path = include/cxxopts
+	url = https://github.com/jarro2783/cxxopts.git
